@@ -17,3 +17,4 @@ Now user can visit the following link to open the prometheus interface to select
 http://www.localhost:9090
 ```
 
+NOTE: Currently this code is working on Linux AMD64 platform. 
